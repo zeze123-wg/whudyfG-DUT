@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-size:cover;
+}
+
+
+center{
+    background-color: aqua;
+}
+
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    border:rgb(0, 4, 241) 5px solid;
+    border-radius:30px;
+    /* border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(border.png) 30% round; */
+}
